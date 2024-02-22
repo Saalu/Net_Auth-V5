@@ -19,9 +19,9 @@ const onClick = () => {
 
 if(mode === 'modal'){
     return(
-        <span>
-            TODO: Implemented Modal
-        </span>
+       <div>
+      
+       </div>
     )
 }
 
